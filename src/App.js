@@ -6,8 +6,7 @@ function App() {
     return ( <
         div className = "App" >
         <
-        h1 > Hello World < /h1>  < <
-        P > Bootcamp Second Assignment /
+        h1 > Hello World < /h1>  < /
         div >
     );
 }
