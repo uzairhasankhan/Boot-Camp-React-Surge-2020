@@ -6,7 +6,7 @@ function App() {
     return ( <
         div className = "App" >
         <
-        h1 > Hello World from UHK < /h1>  < /
+        h1 > Hello World from Uzair Hasan Khan < /h1>  < /
         div >
     );
 }
